@@ -55,6 +55,7 @@ textarea{
     min-height: 10em;
     max-height: 10em;
     max-width: 100%;
+    min-width: 100%;
 } 
 #boton{
     width: 8em;
